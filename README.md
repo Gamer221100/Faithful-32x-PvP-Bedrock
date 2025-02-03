@@ -1,4 +1,6 @@
-# Faithful-32x-PvP-Bedrock
+# English | [Español](README-ES.md)
+
+## Faithful-32x-PvP-Bedrock
 
 A texture pack with the classic textures of minecraft 1.12 with minor changes for pvp and adapted for minecraft bedrock 1.21.x
 
