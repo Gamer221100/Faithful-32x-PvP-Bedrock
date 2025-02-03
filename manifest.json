@@ -1,0 +1,19 @@
+{
+  "format_version": 2,
+
+  "header": {
+    "description": "Faithful 32x32 PvP\n §8Edited by Gamer221109",
+    "name": "Classic Faithful 32x PvP - Bedrock",
+    "uuid": "bb569bff-9950-4727-871a-6fdc70e2e9c3",
+    "version": [1, 0, 2],
+    "min_engine_version": [ 1, 18, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Faithful 32x32 PvP\n §8Edited by Gamer221109",
+      "type": "resources",
+      "uuid": "144cfd15-ad18-4981-8fa3-3853976da019",
+      "version": [1, 0, 2]
+    }
+  ]
+}
